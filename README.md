@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+This was created using npx create-next-app@latest
+
+Ended on video: https://www.linkedin.com/learning/react-essential-training/creating-a-project-with-next-js?autoSkip=true&resume=false&u=67698794
+
+Any time you create a component in next-js, it is called a server component
+
+Next steps:
+Next.js data storage
+React Server Components
+Caching
